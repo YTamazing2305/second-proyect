@@ -1,0 +1,25 @@
+.moto {
+  width: 400px;  
+  border: 2px solid #ccc; 
+  border-radius: 10px; 
+  padding: 20px;
+  margin: 20px;
+}
+.motoz {
+    width: 400px;  
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    padding: 68px;
+    margin: 20px;
+}
+.motoc {
+    width: 400px;  
+    border: 2px solid #ccc; 
+    border-radius: 10px; 
+    padding: 30px;
+    margin: 20px;
+}
+.titulo {
+    text-align: center;
+    font-size: 40px;
+}
